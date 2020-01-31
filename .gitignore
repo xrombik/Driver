@@ -9,3 +9,7 @@
 *.FileListAbsolute.txt
 *.exp
 *.lib
+*.NMS
+*.vshost.exe
+Docs/
+GAPort/debug/*.txt
