@@ -96,7 +96,7 @@ LINK32=link.exe
 # PROP Default_Filter "cpp;c;cxx;rc;def;r;odl;idl;hpj;bat"
 # Begin Source File
 
-SOURCE=..\..\include\helper.cpp
+SOURCE=..\Inc\helper.cpp
 # End Source File
 # Begin Source File
 

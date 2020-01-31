@@ -1,7 +1,7 @@
 #include <windows.h>
 #include "..\Inc\types.h"
 #include "..\Inc\constants.h"
-#include "..\..\include\helper.h"
+#include "..\Inc\helper.h"
 
 #pragma comment (lib, "Advapi32.lib")
 
