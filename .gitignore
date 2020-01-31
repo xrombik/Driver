@@ -1,0 +1,11 @@
+*.log
+*.cache
+*.user
+*.exp
+*.manifest
+*.suo
+*.idb
+*.FileList.txt
+*.FileListAbsolute.txt
+*.exp
+*.lib
