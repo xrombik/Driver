@@ -12,3 +12,5 @@ uses this driver and some test benches in C#. Also source code of
 driver in Windows 8 64 bit and later, you have to rebuild *.dll
 and *.sys files yourself. This package provide sources and
 project files to build in Visual Studio 6, and Visual Studio 2005.
+
+Check Visual Studio project settings, they are may be incomplete.
